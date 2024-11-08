@@ -19,6 +19,8 @@
 Project summary:
 - Visualization D3 -> Interactive charts made with JavaScript and D3
 - Decrypt message -> Decryption of a message using the Metropolis-Hastings algorithm
+- Time Series Analysis -> Analysis and predictions usgin time series techniques
+- City Bike -> Java project that descrcibes the functionality of a bike rental system
 
 <br><br><br>
 
