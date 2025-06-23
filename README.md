@@ -1,26 +1,61 @@
-# My projects
-- 👋 Hi, I’m @pablo79d8
-- 🌍​ Languages &nbsp;&nbsp; ![Static Badge](https://img.shields.io/badge/Espa%C3%B1ol-eb4308) &nbsp; ![Static Badge](https://img.shields.io/badge/English-083ceb)
-- 📚 I'm a 5th year student of Computer Science and Statistics at University of Valladolid
-- 👀 Interested in data analysis, software development, AI and more
-- 🌱 Introducing myself to the world of artificial intelligence (deep learning, machine learning, neural networks...)
-- 💻 Here are the projects I have developed during my university studies, but I'll keep uploading stuff
-- 📫 How to reach me:
-  
-  <div> 
-  <br>
-  <a href = "mailto:pdearriba.mendizabal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/pablo-de-arriba-mendizábal-594632333" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <br>
-  </div>
+# 👋 Hi, I’m Pablo de Arriba
 
+- 🎓 I'm a 5th year student of Computer Science and Statistics at the University of Valladolid.
+- 🌍 Languages:  
+  ![Español Badge](https://img.shields.io/badge/Espa%C3%B1ol-eb4308)  
+  ![English Badge](https://img.shields.io/badge/English-083ceb)
+- 💡 Passionate about data analysis, software development, artificial intelligence and technology in general.
+- 🤖 Currently deepening my knowledge in machine learning, deep learning, and neural networks.
+- 🚀 Open to new opportunities and always eager to learn and grow as a professional.
+- 💼 I keep this profile updated with university and personal projects—more coming soon!
+- 📫 How to reach me:  
+  <a href="mailto:pdearriba.mendizabal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pablo-de-arriba-mendizábal-594632333" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+---
 
-Project summary:
-- Visualization D3 -> Interactive charts made with JavaScript and D3
-- Decrypt message -> Decryption of a message using the Metropolis-Hastings algorithm
-- Time Series Analysis -> Analysis and predictions usgin time series techniques
-- City Bike -> Java project that descrcibes the functionality of a bike rental system
+## 🛠️ Featured Projects
+
+### [Machine Learning University Practices](https://github.com/tu_usuario/machine-learning-university-practices)
+A comprehensive collection of Jupyter Notebooks covering practical exercises in machine learning and deep learning:
+- **Unsupervised learning**: K-means, Agglomerative Clustering, Self-Organizing Maps (SOM).
+- **Supervised learning**: Multilayer Perceptron (MLP), Recurrent Neural Networks (RNN), and Convolutional Neural Networks (CNN).
+- **Applications**: From data clustering and visualization to image and sequence analysis.  
+*This repository demonstrates my ability to apply theoretical knowledge to solve real-world problems using Python and modern ML libraries.*
+
+---
+
+### [Visualization D3](https://github.com/tu_usuario/visualization-d3)
+- Interactive data visualizations created with JavaScript and D3.js.
+- Includes dynamic charts, graphs, and dashboards for exploring and communicating data insights.
+- Emphasis on user experience and effective graphical representation of complex datasets.
+- *Showcases my skills in web development, frontend technologies, and data storytelling.*
+
+---
+
+### [Decrypt Message (Metropolis-Hastings)](https://github.com/tu_usuario/decrypt-message-metropolis-hastings)
+- Decryption of coded messages using the Metropolis-Hastings algorithm, a Markov Chain Monte Carlo (MCMC) method.
+- Implementation in Python: probabilistic modeling, algorithm optimization, and cryptanalysis.
+- *Highlights my understanding of stochastic processes, probability, and algorithmic problem-solving.*
+
+---
+
+### [Time Series Analysis](https://github.com/tu_usuario/time-series-analysis)
+- Analysis and forecasting of time series data using statistical and machine learning techniques.
+- Covers ARIMA modeling, seasonal decomposition, and prediction of real-world datasets.
+- *Demonstrates my analytical thinking and practical knowledge of time-dependent data processing.*
+
+---
+
+### [City Bike Rental System](https://github.com/tu_usuario/city-bike)
+- Java-based simulation of a bike-sharing system, modeling real-life rental operations.
+- Includes object-oriented design, data management, and basic user interface.
+- *Evidence of my proficiency in Java, software architecture, and systems modeling.*
+
+---
+
+*Feel free to reach out if you’re interested in collaborating, or if you have opportunities related to AI, data science, or software development!*
+
 
 <br><br><br>
 
