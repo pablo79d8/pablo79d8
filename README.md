@@ -16,41 +16,37 @@
 
 ## 🛠️ Featured Projects
 
-### [Machine Learning University Practices](https://github.com/tu_usuario/machine-learning-university-practices)
+### [Machine Learning University Practices](https://github.com/pablo79d8/machine-learning-university-practices)
 A comprehensive collection of Jupyter Notebooks covering practical exercises in machine learning and deep learning:
 - **Unsupervised learning**: K-means, Agglomerative Clustering, Self-Organizing Maps (SOM).
 - **Supervised learning**: Multilayer Perceptron (MLP), Recurrent Neural Networks (RNN), and Convolutional Neural Networks (CNN).
 - **Applications**: From data clustering and visualization to image and sequence analysis.  
-*This repository demonstrates my ability to apply theoretical knowledge to solve real-world problems using Python and modern ML libraries.*
 
 ---
 
-### [Visualization D3](https://github.com/tu_usuario/visualization-d3)
+### [Visualization D3](https://github.com/pablo79d8/Visualization-D3)
 - Interactive data visualizations created with JavaScript and D3.js.
 - Includes dynamic charts, graphs, and dashboards for exploring and communicating data insights.
 - Emphasis on user experience and effective graphical representation of complex datasets.
-- *Showcases my skills in web development, frontend technologies, and data storytelling.*
 
 ---
 
-### [Decrypt Message (Metropolis-Hastings)](https://github.com/tu_usuario/decrypt-message-metropolis-hastings)
+### [Decrypt Message (Metropolis-Hastings)](https://github.com/pablo79d8/MCMC-decoding)
 - Decryption of coded messages using the Metropolis-Hastings algorithm, a Markov Chain Monte Carlo (MCMC) method.
-- Implementation in Python: probabilistic modeling, algorithm optimization, and cryptanalysis.
+- Implementation in R: probabilistic modeling, algorithm optimization, and cryptanalysis.
 - *Highlights my understanding of stochastic processes, probability, and algorithmic problem-solving.*
 
 ---
 
-### [Time Series Analysis](https://github.com/tu_usuario/time-series-analysis)
+### [Time Series Analysis](https://github.com/pablo79d8/Time-Series-Analysis)
 - Analysis and forecasting of time series data using statistical and machine learning techniques.
 - Covers ARIMA modeling, seasonal decomposition, and prediction of real-world datasets.
-- *Demonstrates my analytical thinking and practical knowledge of time-dependent data processing.*
 
 ---
 
-### [City Bike Rental System](https://github.com/tu_usuario/city-bike)
+### [City Bike Rental System](https://github.com/pablo79d8/CityBike)
 - Java-based simulation of a bike-sharing system, modeling real-life rental operations.
 - Includes object-oriented design, data management, and basic user interface.
-- *Evidence of my proficiency in Java, software architecture, and systems modeling.*
 
 ---
 
