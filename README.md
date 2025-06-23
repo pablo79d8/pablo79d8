@@ -23,6 +23,7 @@
 - Designed both the backend (Flask) and the web frontend (Gradio), and deployed locally for university use.
 - [See repository for details and demo screenshots.](https://github.com/pablo79d8/chatbot-RAG)
 
+---
 
 ### [Machine Learning University Practices](https://github.com/pablo79d8/machine-learning-university-practices)
 A comprehensive collection of Jupyter Notebooks covering practical exercises in machine learning and deep learning:
