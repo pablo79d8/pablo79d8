@@ -34,7 +34,6 @@ A comprehensive collection of Jupyter Notebooks covering practical exercises in 
 ### [Decrypt Message (Metropolis-Hastings)](https://github.com/pablo79d8/MCMC-decoding)
 - Decryption of coded messages using the Metropolis-Hastings algorithm, a Markov Chain Monte Carlo (MCMC) method.
 - Implementation in R: probabilistic modeling, algorithm optimization, and cryptanalysis.
-- *Highlights my understanding of stochastic processes, probability, and algorithmic problem-solving.*
 
 ---
 
