@@ -16,12 +16,12 @@
 
 ## 🛠️ Featured Projects
 
-### [Final Degree Project: RAG Chatbot](https://github.com/pablo79d8/tfg-chatbot-rag)
+### [Bachelor's Thesis: RAG Chatbot](https://github.com/pablo79d8/chatbot-RAG)
 - Developed a full-featured intelligent chatbot using Retrieval-Augmented Generation (RAG) techniques.
 - Combined document retrieval (ChromaDB/FAISS) and LLMs (Ollama, Llama 3) to provide accurate, context-aware answers.
 - Implemented user roles, document upload, and feedback collection.
 - Designed both the backend (Flask) and the web frontend (Gradio), and deployed locally for university use.
-- [See repository for details and demo screenshots.](https://github.com/pablo79d8/tfg-chatbot-rag)
+- [See repository for details and demo screenshots.](https://github.com/pablo79d8/chatbot-RAG)
 
 
 ### [Machine Learning University Practices](https://github.com/pablo79d8/machine-learning-university-practices)
